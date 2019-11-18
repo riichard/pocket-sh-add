@@ -16,14 +16,14 @@ the link opened in your browser and hit enter.
 ./authenticate.sh
 ```
 
-#### Add urls
+#### Add a URL
 Add any URL with the add.sh script.
 ```
 ./add.sh https://github.com/riichard/pocket-sh-add/blob/master/README.md
 
 ```
 
-#### Add a URL, but also add tags
+#### Add a URL with tags
 ```
 ./add.sh https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html "books, nonfiction"
 ```
