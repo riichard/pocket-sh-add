@@ -20,4 +20,10 @@ the link opened in your browser and hit enter.
 Add any URL with the add.sh script.
 ```
 ./add.sh https://github.com/riichard/pocket-sh-add/blob/master/README.md
+
+```
+
+#### Add a URL, but also add tags
+```
+./add.sh https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html "books, nonfiction"
 ```
